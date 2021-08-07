@@ -49,8 +49,8 @@ a {
   z-index: 2;
   overflow: hidden; }
   .offcanvas-menu .site-wrap:before {
-    opacity: 1;
-    visibility: visible; }
+    opacity: 10;
+    visibility: collapse; }
 
 .btn {
   border-radius: 0; }
